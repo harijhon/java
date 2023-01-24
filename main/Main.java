@@ -16,7 +16,7 @@ public class Main {
                 for (String item : each.getOutPutTxt()) {
                     System.out.println(item);
                 }
-                System.out.println();
+                System.out.println("tay atono");
             }
         } catch (Exception e) {
             e.printStackTrace();
